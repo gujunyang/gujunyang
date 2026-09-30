@@ -7,20 +7,20 @@
   <img src="assets/wordmark-light.svg" alt="J4ckG" width="220" />
 </picture>
 
-*Half code, half court.*
+*half writing code, half reading the world.*
 
 <p>
-  <a href="https://github.com/gujunyang"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-3A4149?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="mailto:your@email.com"><img alt="Email" src="https://img.shields.io/badge/Email-3A4149?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/gujunyang"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-0D131F?style=flat-square&logo=github&logoColor=C9924B" /></a>
+  <a href="mailto:your@email.com"><img alt="Email" src="https://img.shields.io/badge/Email-0D131F?style=flat-square&logo=gmail&logoColor=C9924B" /></a>
 </p>
 
 <p>
-  <img alt="Followers" src="https://img.shields.io/github/followers/gujunyang?style=flat-square&label=Followers&labelColor=3A4149&color=6E7781&logo=github&logoColor=white" />
-  <img alt="Stars" src="https://img.shields.io/github/stars/gujunyang?style=flat-square&label=Stars&labelColor=3A4149&color=6E7781&logo=github&logoColor=white" />
+  <img alt="Followers" src="https://img.shields.io/github/followers/gujunyang?style=flat-square&label=Followers&labelColor=0D131F&color=8A642A&logo=github&logoColor=C9924B" />
+  <img alt="Stars" src="https://img.shields.io/github/stars/gujunyang?style=flat-square&label=Stars&labelColor=0D131F&color=8A642A&logo=github&logoColor=C9924B" />
 </p>
 
-He / Him · Hong Kong · Software Engineering grad student.
+He / Him · Hong Kong · AI, in progress.
 
-**Grad student** in Hong Kong, splitting time between writing code and surviving 8 a.m. classes. Into **basketball**, **gadgets**, and anything with a battery and an upgrade path. Native Chinese · Conversational English.
+code. books. solitude. black coffee.
 
 </div>
